@@ -1,0 +1,3 @@
+[submodule "themes/personal_web"]
+	path = themes/personal_web
+	url = https://github.com/bjacquemet/personal-web.git
